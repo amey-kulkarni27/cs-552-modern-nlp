@@ -37,7 +37,7 @@ All lectures will be given in person and live streamed on Zoom. The link to the 
 |             |                      |                                                                                                             |                                    |
 | **Week 4**  | 15 Mar <br />16 Mar  |  Attention + Transformers <br />Transformers                                              [[slides][4s]]    |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
-| **Week 5**  | 22 Mar <br />23 Mar  |  Pretraining: ELMo, BERT  <br />Transfer Learning: Introduction                                             |  Antoine Bosselut                  |
+| **Week 5**  | 22 Mar <br />23 Mar  |  Pretraining: ELMo, BERT  <br />Transfer Learning: Introduction                           [[slides][5s]]    |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
 | **Week 6**  | 29 Mar <br />30 Mar  |  Transfer Learning: Dataset Biases  <br />Transfer Learning: Prompts                                        |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
@@ -53,7 +53,7 @@ All lectures will be given in person and live streamed on Zoom. The link to the 
 |             |                      |                                                                                                             |                                    |
 | **Week 12** | 10 May <br />11 May  |  Interpretability & Analysis of Language Models <br />***No class***                                        |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
-| **Week 13** | 17 May <br />18 May  |  Reading Comprehension & Open-domain QA <br />Language & Knowledge Graphs                                   |  Antoine Bosselut                  |
+| **Week 13** | 17 May <br />18 May  |  Reading Comprehension & Open-domain QA <br />Language & Knowledge Graphs                                   |  Antoine Bosselut  <br />Angelika Romanou                |
 |             |                      |                                                                                                             |                                    |
 | **Week 14** | 24 May <br />25 May  |  Tokenization + Multilingual LMs  <br />***No class***                                                      |  Negar Foroutan                    |
 |             |                      |                                                                                                             |                                    |
@@ -70,9 +70,9 @@ All lectures will be given in person and live streamed on Zoom. The link to the 
 |             |         |                                                                                       |                                                                     |
 | **Week 3**  |  9 Mar  |  Language Models Review <br />Sequence-to-sequence models [[code][3e]]                |  Mohammedreza Banaei <br />Sepideh Mamooler <br />Simin Fan         |
 |             |         |                                                                                       |                                                                     |
-| **Week 4**  | 16 Mar  |  Sequence-to-sequence models review <br />Attention + Transformers                    |  Sepideh Mamooler <br />Mete Ismayil <br />Simin Fan                |
+| **Week 4**  | 16 Mar  |  Sequence-to-sequence models review <br />Attention + Transformers   [[code][4e]]     |  Sepideh Mamooler <br />Mete Ismayil <br />Simin Fan                |
 |             |         |                                                                                       |                                                                     |
-| **Week 5**  | 23 Mar  |  Transformers Review <br />Pretraining: ELMo, BERT                                    |  Simin Fan <br />Sepideh Mamooler <br />Molly Petersen              |
+| **Week 5**  | 23 Mar  |  Transformers Review <br />Pretraining: ELMo, BERT    [[code][5e]]                    |  Simin Fan <br />Sepideh Mamooler <br />Molly Petersen              |
 |             |         |                                                                                       |                                                                     |
 | **Week 6**  | 30 Mar  |  Pretraining Review <br />Transfer Learning: Dataset Biases                           |  Molly Petersen <br />Mete Ismayil <br />Sepideh Mamooler           |
 |             |         |                                                                                       |                                                                     |
@@ -82,7 +82,7 @@ All lectures will be given in person and live streamed on Zoom. The link to the 
 |             |         |                                                                                       |                                                                     |
 | **Week 9**  | 20 Apr  |  Text Generation Review <br />In-context Learning                                     |  Deniz Bayazit <br />Silin Gao <br />Sepideh Mamooler               |
 |             |         |                                                                                       |                                                                     |
-| **Week 10** | 27 Apr  |  In-context Learning Review <br />Milestone 1 Discussion                              |  Silin Gao TA meetings on-demand                                    |
+| **Week 10** | 27 Apr  |  In-context Learning Review <br />Milestone 1 Discussion                              |  Silin Gao <br />TA meetings on-demand                                    |
 |             |         |                                                                                       |                                                                     |
 | **Week 11** |  4 May  |  Project                                                                              |  TA meetings on-demand                                              |
 |             |         |                                                                                       |                                                                     |
@@ -110,11 +110,12 @@ Your grade in the course will be computed according to the following guidelines:
 There will be three assignments throughout the course. They will be released and due according to the following schedule:
 
 #### Assignment 1 (10%)
-Link for the assignment [[here][1a]]
+Link for the assignment [[here][1a]].
 - Released: 10 Mar 2023
 - Due: 24 Mar 2023
 
 #### Assignment 2 (15%)
+Link for the assignment [[here][2a]].
 - Released: 24 Mar 2023
 - Due: 7 Apr 2023 
 
@@ -165,9 +166,13 @@ Please contact us for any organizational questions or questions related to the c
 [2s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%202
 [3s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%203
 [4s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%204
+[5s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%205
 
 [1e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%201%20-%20Word%20Embeddings
 [2e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%202%20-%20N-gram%20%26%20Neural%20Language%20Models
 [3e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%203%20-%20RNN
+[4e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%204%20-%20Transformer%20%26%20Attention
+[5e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%205%20-%20BERT
 
 [1a]:https://moodle.epfl.ch/mod/forum/discuss.php?d=87286
+[2a]:https://moodle.epfl.ch/mod/forum/discuss.php?d=87999
